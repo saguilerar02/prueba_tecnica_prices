@@ -1,4 +1,4 @@
-package com.prueba.inditex.prices.infraestructure.entities.entities;
+package com.prueba.inditex.prices.infraestructure.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
